@@ -4,16 +4,13 @@
 <br />
 
 ### About Me:
-- Hey, I am Mani a self-taught developer
-- Join me on [Web-Services.io](https://discord.gg/webservices)
-- Visit my [Portfolio](https://maniabi.dev)
+- Hey, I'm Felix and I'm currently learning how to code websites.
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Textilpflege)
 <br />
 
 ### Learning and Working With:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
