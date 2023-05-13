@@ -1,6 +1,6 @@
 # Felix
 <br />
-<a href="#"><img src="https://discord.c99.nl/widget/theme-1/354316383787548673.png"></a>
+<a href="#"><img src="https://discord.c99.nl/widget/theme-1/527114645656305664.png"></a>
 <br />
 
 ### About Me:
