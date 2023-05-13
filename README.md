@@ -7,6 +7,7 @@
 
 ### About Me:
 - Hey, I'm Felix and I'm currently learning how to code websites.
+- I am also trying to learn the programming language Lua.
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Textilpflege)
