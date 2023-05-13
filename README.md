@@ -2,8 +2,7 @@
 <br />
 <a href="#"><img src="https://discord.c99.nl/widget/theme-1/527114645656305664.png"></a>
 <br />
-<a href="#"><img src="https://media.discordapp.net/attachments/1010498483301658665/1085024393471721643/Maxi.gif"></a>
-<br />
+
 
 
 ### About Me:
