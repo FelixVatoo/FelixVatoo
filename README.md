@@ -3,12 +3,6 @@
 <a href="#"><img src="https://discord.c99.nl/widget/theme-4/527114645656305664.png"></a>
 <br />
 
-
-
-### About Me:
-- I'm Felix and I'm currently learning how to code websites.
-<br />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Textilpflege)
 <br />
 
