@@ -3,7 +3,6 @@
 <a href="#"><img src="https://discord.c99.nl/widget/theme-4/527114645656305664.png"></a>
 <br />
 
-<br />
 ![Profile Views](https://komarev.com/ghpvc/?username=Textilpflege)
 <br />
 
